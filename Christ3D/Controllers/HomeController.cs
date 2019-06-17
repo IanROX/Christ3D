@@ -17,7 +17,7 @@ namespace Christ3D.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.11";
+            ViewData["Message"] = "Your application description page.";
 
             return View();
         }
